@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This repo is now deprecated. In the time since it created TypeScript support is now a default feature of Create React App.
+
 ## Available Scripts
 
 In the project directory, you can run:
